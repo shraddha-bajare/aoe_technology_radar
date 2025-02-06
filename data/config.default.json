@@ -45,6 +45,12 @@
       "title": "Tools",
       "description": "A range of software tools, from simple productivity enhancers to comprehensive project solutions, catering to various project needs.",
       "color": "#40713f"
+    },
+    {
+      "id": "tools trails",
+      "title": "Tools Trials",
+      "description": "This quadrant features a variety of tools that has been trail, from small utilities to large-scale software projects.",
+      "color": "#F2A25D"
     }
   ],
   "rings": [
@@ -71,14 +77,6 @@
       "color": "#bc6c25",
       "radius": 0.85,
       "strokeWidth": 2
-    },
-    {
-      "id": "hold",
-      "title": "Hold",
-      "description": "",
-      "color": "#d62828",
-      "radius": 1,
-      "strokeWidth": 0.75
     }
   ],
   "flags": {
